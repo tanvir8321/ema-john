@@ -1,0 +1,16 @@
+.main-nav{
+    background-color: black;
+    padding: 0 50px;
+    text-align: left;
+}
+.main-nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 5px;
+    font-size: 18px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.main-nav a:hover{
+    background-color: gray;
+}
